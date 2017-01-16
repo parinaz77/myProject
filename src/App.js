@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import StorePicker from './components/storePicker'
 import Header from './components/header'
-import Order from './components/order'
+import BookList from './containers/book_list'
 import Inventory from './components/inventory'
 
 import injectTapEventPlugin from 'react-tap-event-plugin';
@@ -22,7 +22,7 @@ class App extends Component {
 	      <div>
 	      	<Header />
 	        <StorePicker />
-	        <Order />
+	        <BookList />
 	        <Inventory />
 	      </div>
 	     </MuiThemeProvider>
