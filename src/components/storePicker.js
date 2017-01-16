@@ -19,7 +19,7 @@ class StorePicker extends Component{
 			      floatingLabelText="Search Store Name"
 			    /> <br/>
 				<RaisedButton 
-					label="Visit the Store" 
+					label="Search" 
 					primary={true}
 					style={styles.button}
 					/>
