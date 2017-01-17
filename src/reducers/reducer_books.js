@@ -1,10 +1,14 @@
 export default function() {
 	return [
-			{title:'hey'},
-			{title:'hey2'},
-			{title:'hey3'},
-			{title:'hey4'},
-			{title:'hey5'}
+			{title:'How to Get from Where You Are to Where You Want to Be', type:'book', image_url: "http://bestmanifestingbooks.com/wp-content/uploads/2016/06/The-Success-PrinciplesTM-10th-Anniversary-Edition-CD-How-to-Get-from-Where-You-Are-to-Where-You-Want-to-Be-0-270x400.jpg", buy_url:"https://www.amazon.com/Success-Principles-TM-Anniversary-Where/dp/0062364286/ref=sr_1_1?s=books&ie=UTF8&qid=1484687655&sr=1-1&keywords=success",},
+			{title:'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change', type:'book',image_url:"http://prodimage.images-bn.com/pimages/9781451639612_p0_v5_s192x300.jpg",buy_url:"https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619/ref=sr_1_3?s=books&ie=UTF8&qid=1484687655&sr=1-3&keywords=success"},
+			{title:'Success: 30 Interviews with Entrepreneurs & Executives', type:'book',image_url:"https://images-na.ssl-images-amazon.com/images/I/41Dfy29iPLL._SY346_.jpg",buy_url:"https://www.amazon.com/Success-30-Interviews-Entrepreneurs-Executives-ebook/dp/B010YRN2D0/ref=sr_1_6?s=books&ie=UTF8&qid=1484687655&sr=1-6&keywords=success"},
+			{title:'How Successful People Think: Change Your Thinking, Change Your Life', type:'book', image_url:"https://images-na.ssl-images-amazon.com/images/I/412rfGsblGL._SX322_BO1,204,203,200_.jpg",buy_url:"https://www.amazon.com/How-Successful-People-Think-Thinking/dp/1599951681/ref=sr_1_7?s=books&ie=UTF8&qid=1484687655&sr=1-7&keywords=success"},
+			{title:'How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships', type:'book', image_url:"https://images-na.ssl-images-amazon.com/images/I/51l3jMA9XqL._SX324_BO1,204,203,200_.jpg", buy_url:"https://www.amazon.com/How-Talk-Anyone-Success-Relationships/dp/007141858X/ref=sr_1_8?s=books&ie=UTF8&qid=1484687655&sr=1-8&keywords=success"},
+			{title:'Success in the Digital World: How to survive in this digital world', type:'book', image_url:'https://images-eu.ssl-images-amazon.com/images/I/517pPw8Ru3L.jpg',buy_url:'https://www.amazon.com/Success-Digital-World-survive-digital-ebook/dp/B01GZSWY22/ref=sr_1_14?s=books&ie=UTF8&qid=1484687655&sr=1-14-spons&keywords=success&psc=1'},
+			{title:'The Seven Spiritual Laws of Success: A Practical Guide to the Fulfillment of Your Dreams ', type:'book', image_url:'https://images-na.ssl-images-amazon.com/images/I/51Idi-LuZgL._SX346_BO1,204,203,200_.jpg',buy_url:'https://www.amazon.com/Seven-Spiritual-Laws-Success-Fulfillment/dp/1878424114/ref=sr_1_12?s=books&ie=UTF8&qid=1484687655&sr=1-12&keywords=success'},
+			{title:'Why Failure Is Good for Success', type:'article', image_url:'http://www.success.com/sites/default/files/styles/article_main/public/main/articles/whyfailureisgoodforsuccess_2.jpg?itok=CfHbqbZL', buy_url:'http://www.success.com/article/why-failure-is-good-for-success'},
+			{title: 'What Drives Success?', type:'article', image_url:'https://static01.nyt.com/images/2014/01/26/sunday-review/26CHUA/26CHUA-master1050.jpg',buy_url:'https://www.nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=0'}
 	]
 }
 

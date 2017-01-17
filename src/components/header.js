@@ -1,11 +1,13 @@
-import React,{Component} from 'react';
+import React from 'react';
+import AppBar from 'material-ui/AppBar';
 
-class Header extends Component{
-	render() {
-		return (
-			<p>Header</p>
-			)
-	}
-}
+const Header = () => (
+  <AppBar
+  	style={{backgroundColor: '#ffbf80'}}
+    title="Future Success"
+    iconClassNameRight="muidocs-icon-navigation-expand-more"
+  />
+);
 
 export default Header;
+
